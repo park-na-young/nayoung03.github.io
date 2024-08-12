@@ -3,8 +3,12 @@ layout: me
 title: me
 ---
 
-# 😇 안녕하세요. 박나영입니다. 
-> # Back-end Web Developer 
+# 😇 PARK NA YOUNG. 
+## Software Engineer : Back-end Web Developer
+> " Welcome! Discover my work in this space where development and creativity coexist. Explore my project repositories to trace the journey of growth." 
+
+Base in Seoul, South Korea. <br/>
+
 
 
 
